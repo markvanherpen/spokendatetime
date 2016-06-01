@@ -1,0 +1,19 @@
+{
+  "name": "spokendatetime",
+  "version": "1.0.0",
+  "description": "This module returns the spoken date and/or time ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markvanherpen/spokendatetime.git"
+  },
+  "author": "Mark van Herpen <mark@v-herpen.nl>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/markvanherpen/spokendatetime/issues"
+  },
+  "homepage": "https://github.com/markvanherpen/spokendatetime#readme"
+}
